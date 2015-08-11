@@ -1,0 +1,5 @@
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\bin\Debug\Academetrics.Data.Enums.dll
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\bin\Debug\Academetrics.Data.Enums.pdb
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Academetrics.Data.Enums.dll
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Academetrics.Data.Enums.pdb
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Academetrics.Data.Enums.csprojResolveAssemblyReference.cache

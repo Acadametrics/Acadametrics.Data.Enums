@@ -1,0 +1,10 @@
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Enums\bin\Debug\Acadametrics.Data.Enums.dll
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Enums\bin\Debug\Acadametrics.Data.Enums.pdb
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Acadametrics.Data.Enums.csprojResolveAssemblyReference.cache
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Acadametrics.Data.Enums.dll
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Acadametrics.Data.Enums.pdb
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\bin\Debug\Acadametrics.Data.Enums.dll
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\bin\Debug\Acadametrics.Data.Enums.pdb
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Acadametrics.Data.Enums.csprojResolveAssemblyReference.cache
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Acadametrics.Data.Enums.dll
+C:\projects\Homer\Tutorist\Acadametrics.API\Acadametrics.Data.Enums\obj\Debug\Acadametrics.Data.Enums.pdb

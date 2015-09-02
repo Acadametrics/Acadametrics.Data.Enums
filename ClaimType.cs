@@ -6,7 +6,7 @@
 	public enum ClaimType
 	{
 		Undefined = 0,
-		IsAdmin = 1,
+		IsSystemAdmin = 1,
 		CanRead = 5,
 		CanWrite = 10, 
 		CanInsert = 11,

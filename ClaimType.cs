@@ -22,6 +22,7 @@
 		IsInstitutionAdmin = 35,
     IsTeacher = 40,
     IsParent = 45,
-    IsStudent = 50
+    IsStudent = 50,
+    IsInstitutionMember = 55
 	}
 }
